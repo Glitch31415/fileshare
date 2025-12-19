@@ -29,9 +29,9 @@ note: individual strengths and weaknesses, ping, and custom binds may make some 
 
 *conc_speed2*: **100**  
 
-*concmap_tg*: **125**  
-
 *conc_speed*: **150**  
+
+*concmap_tg*: **175**  
 
 *concmap_esadvr-rb*: **500**  
 <sub><sup>easy 1: *0.25*<sup><sub>  
