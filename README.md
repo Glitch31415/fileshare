@@ -111,6 +111,6 @@ note: individual strengths and weaknesses, ping, and custom binds may make some 
 <sub><sup>most of the map: *10-50*<sup><sub>  
 <sub><sup>the sideways fans into vent jump: *75*<sup><sub>  
 
-*escape_from_doomtown_hla*: **125**  
+*escape_from_doomtown_hla*: **100**  
 <sub><sup>long jump section: *15*<sup><sub>  
-<sub><sup>main tower with long jump at the top: *125*<sup><sub>
+<sub><sup>main tower with long jump at the top: *100*<sup><sub>
