@@ -1,4 +1,4 @@
-Parkour difficulty rankings
+# Parkour difficulty rankings
 
 
 <2: very easy
@@ -23,7 +23,7 @@ top 10 skill: about 35
 
 note: individual strengths and weaknesses, ping, and custom binds may make some types of parkour easier than others
 
-# GAUSS
+## GAUSS
 *gauss_race*: **1**
 
 *gausslabbeta2*: **5**
@@ -62,7 +62,7 @@ note: individual strengths and weaknesses, ping, and custom binds may make some 
 -# **1337: *500***
 
 
-# EXPLOSIVES
+## EXPLOSIVES
 *rjumptfc*: **15**
 
 *d_trick1_hl*: **25**
@@ -70,7 +70,7 @@ note: individual strengths and weaknesses, ping, and custom binds may make some 
 *k_soldier*: **150**
 
 
-# OTHER
+## OTHER
 *sc_frogger_final*: **1.5**
 
 *arcade*: **3.5**
