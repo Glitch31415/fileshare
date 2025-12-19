@@ -6,9 +6,11 @@
 10-50: medium
 50-250: hard
 250+: very hard  
+
 50th percentile skill: about 2-5
 90th percentile skill: about 10
 top 10 skill: about 35  
+
 note: individual strengths and weaknesses, ping, and custom binds may make some types of parkour easier than others
 
 ## GAUSS
